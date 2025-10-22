@@ -33,23 +33,23 @@ The app allows HR departments to:
 ---
 💼 Relevance to Rippling’s HRIS Internship
 
-This project directly aligns with Rippling’s HRIS team objectives, focusing on:
+--This project directly aligns with Rippling’s HRIS team objectives, focusing on:
 
-Managing employee records (hiring, onboarding, offboarding).
+--**Managing employee records (hiring, onboarding, offboarding)**.
 
-Ensuring data correctness and completeness across the organization.
+--**Ensuring data correctness and completeness across the organization**.
 
-Creating a unified platform that integrates HR, IT, and Finance data.
+--**Creating a unified platform that integrates HR, IT, and Finance data**.
 
-Building scalable, data-driven automation tools for internal teams.
+--**Building scalable, data-driven automation tools for internal teams**.
 
 By completing this project, I demonstrated:
 
-End-to-end ownership of a data management product.
+--**End-to-end ownership of a data management product**.
 
-Application of software engineering principles to real-world HR problems.
+--**Application of software engineering principles to real-world HR problems**.
 
-Ability to build full workflows using modern tools like Streamlit and Python.
+--**Ability to build full workflows using modern tools like Streamlit and Python**.
 
 ---
 
