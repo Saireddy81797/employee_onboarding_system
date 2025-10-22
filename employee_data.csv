@@ -1,0 +1,31 @@
+EmployeeID,Name,Department,Role,Email,JoinDate
+EMP000001,John Doe,Engineering,Software Intern,john.doe@example.com,2025-05-01
+EMP000002,Jane Smith,HR,HR Coordinator,jane.smith@example.com,2025-06-10
+EMP000003,Ravi Kumar,Finance,Analyst,ravi.kumar@example.com,2025-07-15
+EMP000004,Aarav Mehta,Engineering,Backend Developer,aarav.mehta@example.com,2025-04-22
+EMP000005,Emily Johnson,Operations,Operations Intern,emily.johnson@example.com,2025-05-18
+EMP000006,Kavya Sharma,Engineering,Frontend Developer,kavya.sharma@example.com,2025-05-25
+EMP000007,Michael Brown,Finance,Junior Accountant,michael.brown@example.com,2025-03-10
+EMP000008,Saanvi Patel,HR,Recruitment Specialist,saanvi.patel@example.com,2025-06-01
+EMP000009,Arjun Reddy,Engineering,QA Engineer,arjun.reddy@example.com,2025-05-12
+EMP000010,Liam Garcia,Marketing,Digital Marketing Executive,liam.garcia@example.com,2025-05-20
+EMP000011,Nisha Verma,Finance,Payroll Assistant,nisha.verma@example.com,2025-06-15
+EMP000012,David Wilson,Engineering,DevOps Engineer,david.wilson@example.com,2025-04-30
+EMP000013,Meera Iyer,HR,HR Manager,meera.iyer@example.com,2025-03-25
+EMP000014,Noah Davis,Operations,Supply Chain Analyst,noah.davis@example.com,2025-06-05
+EMP000015,Ananya Gupta,Engineering,Data Analyst,ananya.gupta@example.com,2025-05-28
+EMP000016,Olivia Lee,Marketing,Content Writer,olivia.lee@example.com,2025-07-02
+EMP000017,Harsh Raj,Finance,Business Analyst,harsh.raj@example.com,2025-04-10
+EMP000018,Isabella Moore,HR,Talent Acquisition Intern,isabella.moore@example.com,2025-05-22
+EMP000019,Rohan Nair,Engineering,Full Stack Developer,rohan.nair@example.com,2025-03-15
+EMP000020,Sophia White,Finance,Financial Associate,sophia.white@example.com,2025-06-12
+EMP000021,Vikram Das,Operations,Operations Coordinator,vikram.das@example.com,2025-07-08
+EMP000022,Lucas Kim,Engineering,Machine Learning Intern,lucas.kim@example.com,2025-05-10
+EMP000023,Aditi Rao,HR,Employee Relations Officer,aditi.rao@example.com,2025-06-18
+EMP000024,Ethan Lewis,Marketing,SEO Specialist,ethan.lewis@example.com,2025-05-05
+EMP000025,Diya Chatterjee,Finance,Audit Trainee,diya.chatterjee@example.com,2025-04-28
+EMP000026,Alexander Scott,Engineering,Cloud Engineer,alexander.scott@example.com,2025-07-01
+EMP000027,Priya Menon,Operations,Project Coordinator,priya.menon@example.com,2025-05-27
+EMP000028,Charlotte Green,Marketing,Social Media Manager,charlotte.green@example.com,2025-03-18
+EMP000029,Aditya Khanna,Engineering,AI Research Intern,aditya.khanna@example.com,2025-06-20
+EMP000030,Maya Thomas,Finance,Data Entry Assistant,maya.thomas@example.com,2025-05-14
